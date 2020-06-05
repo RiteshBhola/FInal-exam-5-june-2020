@@ -1,0 +1,5 @@
+Criteria 1
+
+1)I would check timing measurements of the software library to check which one is optimised and uses a better algorithm.
+
+
